@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weight Evaluator</string>
+    <string name="enter_name">Enter Name:</string>
+    <string name="button1">Enter</string>
+    <string name="name">Name</string>
+    <string name="welcome">Welcome:</string>
+    <string name="weight">Weight:</string>
+    <string name="height">Height:</string>
+    <string name="status">Status:</string>
+    <string name="button">Button</string>
+</resources>
